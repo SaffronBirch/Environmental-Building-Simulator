@@ -11,6 +11,15 @@ The prototype shows how a user would:
 
 ---
 
+# Authors
+
+- Saffron Birch
+- Alex Kurmiah
+- Kailash Subash Nair
+- Krishnan Uthayashangar
+
+---
+
 ## 1. Prototype link
 
 The prototype is hosted in Figma:
